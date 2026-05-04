@@ -76,7 +76,7 @@ visited_lock = threading.Lock()
 # -----------------------------
 # GROQ AI CONFIG
 # -----------------------------
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 # -----------------------------
