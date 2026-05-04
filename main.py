@@ -60,8 +60,8 @@ VALID_EMAIL_REGEX = r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
 # -----------------------------
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465
-SMTP_USER = "joyboyraj800@gmail.com"
-SMTP_PASS = "rcqv qmho bvss loaf"  # ⚠️ Generate a new one — this was exposed publicly
+SMTP_USER = "email@gmail.com"
+SMTP_PASS = "xxxx xxxx xxxx xxxx"  # ⚠️ Generate a new one — this was exposed publicly
 
 DEFAULT_FROM_NAME = "Raj"
 DEFAULT_SENDER_EMAIL = SMTP_USER
